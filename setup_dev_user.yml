@@ -19,12 +19,3 @@
   roles:
     - common
     - deploy-user
-    - mysql
-    - nginx
-  #  - certbot
-    - ruby
-    - rails
-  #  - monit
-  #  - memcached
-  #  - redis
-  #  - elasticsearch
